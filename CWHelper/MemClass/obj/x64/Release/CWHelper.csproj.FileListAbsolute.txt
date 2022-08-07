@@ -1,0 +1,11 @@
+C:\Users\Nico\source\repos\CWHelper\MemClass\bin\x64\Release\MemClass.exe.config
+C:\Users\Nico\source\repos\CWHelper\MemClass\bin\x64\Release\MemClass.exe
+C:\Users\Nico\source\repos\CWHelper\MemClass\bin\x64\Release\MemClass.pdb
+C:\Users\Nico\source\repos\CWHelper\MemClass\obj\x64\Release\CWHelper.csproj.AssemblyReference.cache
+C:\Users\Nico\source\repos\CWHelper\MemClass\obj\x64\Release\CWHelper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Nico\source\repos\CWHelper\MemClass\obj\x64\Release\MemClass.Main.resources
+C:\Users\Nico\source\repos\CWHelper\MemClass\obj\x64\Release\MemClass.Properties.Resources.resources
+C:\Users\Nico\source\repos\CWHelper\MemClass\obj\x64\Release\CWHelper.csproj.GenerateResource.cache
+C:\Users\Nico\source\repos\CWHelper\MemClass\obj\x64\Release\CWHelper.csproj.CoreCompileInputs.cache
+C:\Users\Nico\source\repos\CWHelper\MemClass\obj\x64\Release\MemClass.exe
+C:\Users\Nico\source\repos\CWHelper\MemClass\obj\x64\Release\MemClass.pdb
