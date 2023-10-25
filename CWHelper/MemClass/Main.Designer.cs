@@ -64,7 +64,19 @@
             "PAP Gold",
             "PAP Colorful",
             "PAP Glitching Pink",
-            "PAP Glitching Orange"});
+            "PAP Glitching Orange",
+            "Atlanta FaZe",
+            "OpTic Chicago",
+            "Dallas Empire",
+            "Florida Mutineers",
+            "Los Angeles Guerrillas",
+            "Los Angeles Thieves",
+            "London Royal Ravens",
+            "Minnesota RØKKR",
+            "New York Subliners",
+            "Paris Legion",
+            "Seattle Surge",
+            "Toronto Ultra"});
             this.camoBox.Location = new System.Drawing.Point(12, 12);
             this.camoBox.Name = "camoBox";
             this.camoBox.Size = new System.Drawing.Size(146, 21);
